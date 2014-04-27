@@ -5,5 +5,5 @@ Short introduction to IPython Notebook given at the Python Meetup Barcelona on A
 To run the code, start the IPython Notebook server by typing in the terminal:  
     `ipython notebook`
 
-Then open the folder `notebooks` and open the `index.ipynb` file.  
+This will open a webpage in your browser. Under the `Notebooks` tab open the `notebooks` folder and run the `index.ipynb` file.  
 
