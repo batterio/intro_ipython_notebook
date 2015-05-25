@@ -1,6 +1,6 @@
 # Introduction to IPython Notebook  
 
-Short introduction to IPython Notebook given at the Python Meetup Barcelona on April 24th, 2014.  
+Short introduction to Jupyter (aka IPython Notebook) given at the ACGT Retreat on May 2015.  
 
 To run the code, start the IPython Notebook server by typing in the terminal:  
     `ipython notebook`
